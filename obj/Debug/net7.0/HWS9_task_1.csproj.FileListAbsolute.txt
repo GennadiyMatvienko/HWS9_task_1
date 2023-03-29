@@ -1,0 +1,15 @@
+C:\git\HomeworkC#\HWS9\HWS9_task_1\bin\Debug\net7.0\HWS9_task_1.exe
+C:\git\HomeworkC#\HWS9\HWS9_task_1\bin\Debug\net7.0\HWS9_task_1.deps.json
+C:\git\HomeworkC#\HWS9\HWS9_task_1\bin\Debug\net7.0\HWS9_task_1.runtimeconfig.json
+C:\git\HomeworkC#\HWS9\HWS9_task_1\bin\Debug\net7.0\HWS9_task_1.dll
+C:\git\HomeworkC#\HWS9\HWS9_task_1\bin\Debug\net7.0\HWS9_task_1.pdb
+C:\git\HomeworkC#\HWS9\HWS9_task_1\obj\Debug\net7.0\HWS9_task_1.csproj.AssemblyReference.cache
+C:\git\HomeworkC#\HWS9\HWS9_task_1\obj\Debug\net7.0\HWS9_task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\HomeworkC#\HWS9\HWS9_task_1\obj\Debug\net7.0\HWS9_task_1.AssemblyInfoInputs.cache
+C:\git\HomeworkC#\HWS9\HWS9_task_1\obj\Debug\net7.0\HWS9_task_1.AssemblyInfo.cs
+C:\git\HomeworkC#\HWS9\HWS9_task_1\obj\Debug\net7.0\HWS9_task_1.csproj.CoreCompileInputs.cache
+C:\git\HomeworkC#\HWS9\HWS9_task_1\obj\Debug\net7.0\HWS9_task_1.dll
+C:\git\HomeworkC#\HWS9\HWS9_task_1\obj\Debug\net7.0\refint\HWS9_task_1.dll
+C:\git\HomeworkC#\HWS9\HWS9_task_1\obj\Debug\net7.0\HWS9_task_1.pdb
+C:\git\HomeworkC#\HWS9\HWS9_task_1\obj\Debug\net7.0\HWS9_task_1.genruntimeconfig.cache
+C:\git\HomeworkC#\HWS9\HWS9_task_1\obj\Debug\net7.0\ref\HWS9_task_1.dll
